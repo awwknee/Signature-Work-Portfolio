@@ -2,9 +2,11 @@
 
 ### [Helter Smelter](https://github.com/UnseenFaith/godotgamejam) 
 
- Helter Smelter was a collaborative effort to create a video game within a time limit for a game jam. Our team consisted of a designer, developers, artists, and a composer. Within our allotted time frame of one week and the theme "Forge", our team created an Overcooked genre game with a unique isometric pixel art style. This game jam was also an opportunity to learn about Godot, an open-source game engine for 2D and 3D games. 
+Helter Smelter was a collaborative effort to create a video game within a time limit for a game jam. Our team consisted of a designer, developers, artists, and a composer. Within our allotted time frame of one week and the theme "Forge", our team created an Overcooked genre game with a unique isometric pixel art style. This game jam was also an opportunity to learn about Godot, an open-source game engine for 2D and 3D games. 
 
 In this game you play as Bart, an experienced Blacksmith who is having trouble keeping up with his customers' demands. Help Bart alleviate his newly found business by creating various weapons and armor — swords, shields, and staffs — and deliver them to needy customers. You'll need to work fast. The faster Bart completes his orders, the happier the customers are and the more points you'll receive. But don't forget about the looming time limit! Bart will only have a little bit of time to complete orders, and only a few minutes before he will have to close up shop for the day. 
+
+[play here](https://unseenfaith.itch.io/helter-smelter)
 
 ### [LeagueBuddy 2.0](https://github.com/awwknee/LeagueBuddy-2.0) 
 
